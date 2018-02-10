@@ -1,0 +1,9 @@
+
+{
+  "name": "fo-bot",
+  "version": "1.0.0",
+  "description": "Football Outsiders Discord bot",
+  "main": "bot.js",
+  "author": "Andrew Apold",
+  "dependencies": {}
+}
